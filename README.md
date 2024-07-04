@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmikt1&label=Profile%20views&color=0e75b6&style=flat" alt="dharmikt1" /> </p>
 
 - 🌱 I’m currently learning **Java,Oracle DBA,Python**
-- 
+
 - 📫 How to reach me **my@gmail.com**
 
 <p align="left">
